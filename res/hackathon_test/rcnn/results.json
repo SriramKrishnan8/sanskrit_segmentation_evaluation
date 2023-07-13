@@ -1,0 +1,1 @@
+{"precision": 97.34666576457252, "recall": 97.66972032179099, "f1score": 97.39836029439353, "perfect_match_with_cpd": 13.6226034308779, "position_with_cpd": 0.136226034308779, "position_counter_with_cpd": {"0": 8560, "1": 1350}, "perfect_match_without_cpd": 80.79717457114026, "position_without_cpd": 0.8079717457114026, "position_counter_without_cpd": {"1": 8007, "0": 1903}}
